@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Thomas, a passionate developer with a love for creating innovative solutions. Here are some of the technologies I work with:
+I'm Thomis, a passionate developer with a love for creating innovative solutions. Here are some of the technologies I work with:
 
 ### Technologies I Use
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -20,9 +20,9 @@ I'm Thomas, a passionate developer with a love for creating innovative solutions
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with cloud deployment strategies.
 - 💬 Ask me about anything related to web development and software engineering.
-- 📫 How to reach me: [Your Email](mailto:your.email@example.com)
+- 📫 How to reach me: [Thomis.rasolomandimby@gmail.com](mailto:your.email@example.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love hiking and exploring new places.
+- ⚡ Fun fact: I love singing and I try to play guitar.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or check out my [GitHub repositories](https://github.com/thom033).
 
