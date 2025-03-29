@@ -24,6 +24,6 @@ I'm Thomis, a passionate developer with a love for creating innovative solutions
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love singing and I try to play guitar.
 
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/thomis-rasolomandimby-984b20256/)) or check out my [GitHub repositories](https://github.com/thom033).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thomis-rasolomandimby-984b20256/) or check out my [GitHub repositories](https://github.com/thom033).
 
 Let's build something amazing together!
