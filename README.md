@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis ThomiYeah
+# 👋 Bonjour, je suis Thomis
 
 ## 🚀 Développeur Full Stack Passionné
 
